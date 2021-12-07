@@ -1,11 +1,11 @@
 ############################ Variable declaration ############################
 variable "a_key" {
   type    = string
-  default = "AKIAVOYUBUYWMEBZCDXI"
+  default = "xxxxxxxxxxxxxxxxxxxx"
 }
 variable "s_key" {
   type    = string
-  default = "b/8WmV9phYiKbSRl9sZ4+4fED30htqqfhhPkoVvM"
+  default = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 
 variable "ami_id" {
